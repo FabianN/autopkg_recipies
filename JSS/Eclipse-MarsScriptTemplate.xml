@@ -1,0 +1,10 @@
+<script>
+    <name>Eclipse-MarsPreinstall.sh</name>
+    <category>Testing</category>
+    <filename>Eclipse-MarsPreinstall.sh</filename>
+    <info />
+    <notes />
+    <priority>Before</priority>
+    <parameters />
+    <os_requirements />
+</script>
