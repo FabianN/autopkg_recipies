@@ -9,9 +9,9 @@
 	<key>Input</key>
 	<dict>
 	    <key>NAME</key>
-        <string>Onyx</string>
+        <string>Onyx_10_9</string>
         <key>MUNKI_REPO_SUBDIR</key>
-        <string>utilities/Onyx</string>
+        <string>apps/onyx/10_9</string>
 		<key>APP_DESTINATION</key>
 		<string>/Applications/Utilities</string>
 		<key>pkginfo</key>
@@ -19,6 +19,7 @@
 			<key>catalogs</key>
 			<array>
 				<string>testing</string>
+				<string>global</string>
 			</array>
 			<key>description</key>
 			<string>OnyX is a multifunctional utility for OS X. It allows you to verify the startup disk and the structure of its System files, to run miscellaneous tasks of system maintenance, to configure the hidden parameters of the Finder, Dock, Spotlight, and of some of Apple's own applications, to delete caches, to remove a certain number of files and folders that may become cumbersome, and more.</string>
@@ -29,7 +30,7 @@
 			<key>unattended_install</key>
 			<true/>
 			<key>category</key>
-			<string>OSX Utilities</string>
+			<string>Utilities</string>
 			<key>developer</key>
 			<string>Titanium</string>
 		</dict>
