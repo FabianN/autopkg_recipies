@@ -10,7 +10,7 @@ the command-line tools.</string>
     <key>Input</key>
     <dict>
         <key>MUNKI_REPO_SUBDIR</key>
-        <string>apps/TextWrangler</string>
+        <string>apps/textwrangler</string>
         <key>NAME</key>
         <string>TextWrangler</string>
         <key>pkginfo</key>
@@ -18,7 +18,12 @@ the command-line tools.</string>
             <key>catalogs</key>
             <array>
                 <string>testing</string>
+                <string>global</string>
             </array>
+            <key>category</key>
+			<string>Developer</string>
+			<key>developer</key>
+			<string>Bare Bones Software</string>
             <key>description</key>
             <string>TextWrangler is the powerful general purpose text editor, and Unix and server administrator's tool. TextWrangler is the "little brother" to BBEdit, a leading professional HTML and text editor.</string>
             <key>display_name</key>
