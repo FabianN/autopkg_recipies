@@ -11,13 +11,18 @@
         <key>NAME</key>
         <string>Skype</string>
         <key>MUNKI_REPO_SUBDIR</key>
-        <string>apps</string>
+        <string>apps/skype</string>
         <key>pkginfo</key>
         <dict>
             <key>catalogs</key>
             <array>
                 <string>testing</string>
+                <string>global</string>
             </array>
+            <key>category</key>
+			<string>Messaging</string>
+			<key>developer</key>
+			<string>Microsoft</string>
             <key>description</key>
             <string>Calling, seeing, messaging and sharing with others – wherever they are.</string>
             <key>display_name</key>
