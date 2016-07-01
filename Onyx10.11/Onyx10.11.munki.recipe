@@ -11,14 +11,15 @@
 		<key>APP_DESTINATION</key>
 		<string>/Applications/Utilities</string>
 		<key>MUNKI_REPO_SUBDIR</key>
-		<string>global/apps/Onyx</string>
+		<string>apps/onyx/10_11</string>
 		<key>NAME</key>
-		<string>Onyx11</string>
+		<string>Onyx_10_11</string>
 		<key>pkginfo</key>
 		<dict>
 			<key>catalogs</key>
 			<array>
 				<string>testing</string>
+				<string>global</string>
 			</array>
 			<key>category</key>
 			<string>Utilities</string>
