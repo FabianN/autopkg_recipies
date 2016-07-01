@@ -9,7 +9,7 @@
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
-        <string>Onyx_10_10</string>
+        <string>Onyx10.10</string>
         <key>MUNKI_REPO_SUBDIR</key>
         <string>apps/onyx/10_10</string>
 		<key>APP_DESTINATION</key>
