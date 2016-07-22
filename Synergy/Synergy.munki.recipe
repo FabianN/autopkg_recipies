@@ -19,7 +19,7 @@
 			<key>catalogs</key>
 			<array>
 				<string>testing</string>
-				<string>global</string>
+				<string>users</string>
 			</array>
 			<key>category</key>
 			<string>Utility</string>

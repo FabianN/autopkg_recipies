@@ -215,6 +215,8 @@ MUNKI_ICON should be overridden with your icon name.
                     <key>catalogs</key>
                     <array>
                         <string>%MUNKI_CATALOG%</string>
+                        <string>global</string>
+                        <string>testing</string>
                     </array>
                     <key>category</key>
                     <string>%MUNKI_CATEGORY%</string>
@@ -253,6 +255,7 @@ MUNKI_ICON should be overridden with your icon name.
                     <key>catalogs</key>
                     <array>
                         <string>%MUNKI_CATALOG%</string>
+                        <string>testing</string>
                     </array>
                     <key>category</key>
                     <string>%MUNKI_CATEGORY%</string>
@@ -291,6 +294,8 @@ MUNKI_ICON should be overridden with your icon name.
                     <key>catalogs</key>
                     <array>
                         <string>%MUNKI_CATALOG%</string>
+                        <string>global</string>
+                        <string>testing</string>
                     </array>
                     <key>category</key>
                     <string>%MUNKI_CATEGORY%</string>
@@ -330,6 +335,8 @@ MUNKI_ICON should be overridden with your icon name.
                     <key>catalogs</key>
                     <array>
                         <string>%MUNKI_CATALOG%</string>
+                        <string>global</string>
+                        <string>testing</string>
                     </array>
                     <key>category</key>
                     <string>%MUNKI_CATEGORY%</string>
