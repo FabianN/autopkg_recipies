@@ -20,8 +20,8 @@ Intel Macs as of Munki tools version 0.9.2.</string>
         <dict>
             <key>catalogs</key>
             <array>
-                <string>testing</string>
                 <string>global</string>
+                <string>testing</string>
             </array>
             <key>category</key>
 			<string>Media</string>

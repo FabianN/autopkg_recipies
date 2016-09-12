@@ -16,8 +16,8 @@
         <dict>
             <key>catalogs</key>
             <array>
-                <string>testing</string>
 				<string>public_machines</string>
+				<string>testing</string>
             </array>
             <key>category</key>
 			<string>Messaging</string>

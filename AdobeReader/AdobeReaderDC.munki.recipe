@@ -26,8 +26,8 @@
 			</array>
 			<key>catalogs</key>
 			<array>
-				<string>testing</string>
 				<string>global</string>
+				<string>testing</string>
 			</array>
 			<key>category</key>
 			<string>Business</string>

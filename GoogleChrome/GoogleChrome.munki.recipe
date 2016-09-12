@@ -16,8 +16,8 @@
         <dict>
             <key>catalogs</key>
             <array>
+            	<string>global</string>
                 <string>testing</string>
-                <string>global</string>
             </array>
             <key>category</key>
 			<string>Internet</string>

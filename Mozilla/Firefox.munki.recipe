@@ -27,8 +27,8 @@ See the following URLs for more info:
         <dict>
             <key>catalogs</key>
             <array>
-                <string>testing</string>
                 <string>global</string>
+                <string>testing</string>
             </array>
             <key>category</key>
 			<string>Internet</string>

@@ -17,9 +17,9 @@ the command-line tools.</string>
         <dict>
             <key>catalogs</key>
             <array>
-                <string>testing</string>
                 <string>development</string>
                 <string>users</string>
+                <string>testing</string>
             </array>
             <key>category</key>
 			<string>Developer</string>
