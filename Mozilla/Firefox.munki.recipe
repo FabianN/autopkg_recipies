@@ -28,7 +28,6 @@ See the following URLs for more info:
             <key>catalogs</key>
             <array>
                 <string>global</string>
-                <string>testing</string>
             </array>
             <key>category</key>
 			<string>Internet</string>

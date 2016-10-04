@@ -20,7 +20,6 @@
 			<array>
 				<string>development</string>
 				<string>users</string>
-				<string>testing</string>
 			</array>
 			<key>category</key>
 			<string>%MUNKI_CATEGORY%</string>

@@ -19,7 +19,6 @@ the command-line tools.</string>
             <array>
                 <string>development</string>
                 <string>users</string>
-                <string>testing</string>
             </array>
             <key>category</key>
 			<string>Developer</string>

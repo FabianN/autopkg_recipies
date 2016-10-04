@@ -27,7 +27,6 @@
 			<key>catalogs</key>
 			<array>
 				<string>global</string>
-				<string>testing</string>
 			</array>
 			<key>category</key>
 			<string>Business</string>

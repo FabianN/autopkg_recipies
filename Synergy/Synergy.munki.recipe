@@ -19,7 +19,6 @@
 			<key>catalogs</key>
 			<array>
 				<string>users</string>
-				<string>testing</string>
 			</array>
 			<key>category</key>
 			<string>Utility</string>
