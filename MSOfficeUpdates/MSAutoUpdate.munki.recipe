@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the latest Outlook 2016 multilingual update pkg,
+    <string>Downloads the latest Microsoft AutoUpdate update pkg,
 appends the version to the end of the filename, and imports into
 Munki.
 
@@ -25,13 +25,13 @@ VERSION currently only supports one value: 'latest', which will download
 the latest full update for the given CHANNEL.
 </string>
     <key>Identifier</key>
-    <string>com.github.autopkg.munki.MSOutlook2016</string>
+    <string>com.github.autopkg.munki.MSAutoUpdate</string>
     <key>MinimumVersion</key>
     <string>0.4.2</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>MSOutlook2016</string>
+        <string>MSAutoUpdate</string>
         <key>MUNKI_REPO_SUBDIR</key>
         <string>apps</string>
         <key>munki_required_update_name</key>
@@ -40,7 +40,7 @@ the latest full update for the given CHANNEL.
         <dict>
             <key>blocking_applications</key>
             <array>
-                <string>Microsoft Outlook</string>
+                <string>Microsoft AutoUpdate</string>
                 <string>Microsoft Error Reporting</string>
                 <string>Microsoft Auto Update</string>
             </array>
@@ -49,7 +49,7 @@ the latest full update for the given CHANNEL.
                 <string>testing</string>
             </array>
             <key>display_name</key>
-            <string>Microsoft Outlook for Mac</string>
+            <string>Microsoft AutoUpdate</string>
             <key>name</key>
             <string>%NAME%</string>
             <key>unattended_install</key>
@@ -57,7 +57,7 @@ the latest full update for the given CHANNEL.
         </dict>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.autopkg.download.MSOutlook2016</string>
+    <string>com.github.autopkg.download.MSAutoUpdate</string>
     <key>Process</key>
     <array>
         <dict>
